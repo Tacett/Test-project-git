@@ -11,4 +11,5 @@
 public class NewClass {
     //commentaire
     int a=0;
+    int b=0;
 }
