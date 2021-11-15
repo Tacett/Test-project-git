@@ -9,5 +9,6 @@
  * @author paul
  */
 public class NewClass {
-    
+    //commentaire
+    int a=0;
 }
